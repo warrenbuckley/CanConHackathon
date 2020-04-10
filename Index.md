@@ -15,6 +15,7 @@ Attendees:
 - [Jesper Mayntzhusen](https://twitter.com/JesperMayn)
 - [Matt Brailsford](https://twitter.com/mattbrailsford)
 - [Matthew Wise](https://twitter.com/waltza86)
+- [Sven Geusens](https://twitter.com/Migaroez)
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
