@@ -12,4 +12,5 @@ Attendees:
 - [Emma Burstow](https://twitter.com/emaburst)
 - [Jan Skovgaard Olsen](https://twitter.com/therealbatjan)
 - [Laura Weatherhead](https://twitter.com/lssweatherhead)
+- [Matt Brailsford](https://twitter.com/mattbrailsford)
 - [Matthew Wise] (https://twitter.com/waltza86)
