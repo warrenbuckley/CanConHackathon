@@ -25,6 +25,7 @@ Attendees:
 - [Andy Butland](https://twitter.com/andybutland)
 - [Joe Glombek](https://twitter.com/joeglombek)
 - Andreea Covaciu
+- [Warren Buckley](https://twitter.com/warrenbuckley)
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
 
