@@ -20,6 +20,7 @@ Attendees:
 - [Adam Werner](https://twitter.com/castellantech)
 - [Sebastiaan Janssen](https://twitter.com/cultiv)
 - [Radu-Gabriel Orleanu](https://twitter.com/raduorleanu)
+- [Jeavon Leopold](https://twitter.com/crumpled_jeavon)
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
