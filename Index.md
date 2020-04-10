@@ -18,6 +18,7 @@ Attendees:
 - [Sven Geusens](https://twitter.com/Migaroez)
 - [Lotte Pitcher](https://twitter.com/lottepitcher)
 - [Adam Werner](https://twitter.com/castellantech)
+- [Sebastiaan Janssen](https://twitter.com/cultiv)
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
