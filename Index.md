@@ -22,6 +22,7 @@ Attendees:
 - [Radu-Gabriel Orleanu](https://twitter.com/raduorleanu)
 - [Jeavon Leopold](https://twitter.com/crumpled_jeavon)
 - [Andy Butland](https://twitter.com/andybutland)
+- [Joe Glombek](https://twitter.com/joeglombek)
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
