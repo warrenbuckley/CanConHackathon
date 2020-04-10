@@ -21,6 +21,7 @@ Attendees:
 - [Sebastiaan Janssen](https://twitter.com/cultiv)
 - [Radu-Gabriel Orleanu](https://twitter.com/raduorleanu)
 - [Jeavon Leopold](https://twitter.com/crumpled_jeavon)
+- Matthew Berner
 - [Andy Butland](https://twitter.com/andybutland)
 
 # Wish you were here!
