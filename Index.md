@@ -9,4 +9,4 @@ Attendees:
 - [Emma Burstow](https://twitter.com/emaburst)
 - [Jan Skovgaard Olsen](https://twitter.com/therealbatjan)
 - [Laura Weatherhead](https://twitter.com/lssweatherhead)
-- [Busra Parnell] (https://twitter.com/onlybusranow)
+- [Busra Parnell](https://twitter.com/onlybusranow)
