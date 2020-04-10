@@ -7,3 +7,4 @@ Attendees:
 - [Carole Rennie Logan](https://twitter.com/crgrieve)
 - [Callum Whyte](https://twitter.com/callumbwhyte)
 - [Thomas Morris](https://twitter.com/mozzydev)
+- [Jan Skovgaard Olsen](https://twitter.com/therealbatjan)
