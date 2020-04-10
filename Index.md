@@ -3,5 +3,6 @@
 Please "sign" by submitting a Pull Request.
 
 Attendees:
-[Carole Rennie Logan](https://twitter.com/crgrieve)
-[Callum Whyte](https://twitter.com/callumbwhyte)
+- [Carole Rennie Logan](https://twitter.com/crgrieve) 
+- [Callum Whyte](https://twitter.com/callumbwhyte)
+- [Mike Masey](https://twitter.com/MikeMasey) 
