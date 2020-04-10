@@ -16,6 +16,7 @@ Attendees:
 - [Matt Brailsford](https://twitter.com/mattbrailsford)
 - [Matthew Wise](https://twitter.com/waltza86)
 - [Sven Geusens](https://twitter.com/Migaroez)
+- [Lotte Pitcher](https://twitter.com/lottepitcher)
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
