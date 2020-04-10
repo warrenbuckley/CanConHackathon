@@ -8,3 +8,4 @@ Attendees:
 - [Callum Whyte](https://twitter.com/callumbwhyte)
 - [Thomas Morris](https://twitter.com/mozzydev)
 - [Emma Burstow](https://twitter.com/emaburst)
+- [Laura Weatherhead](https://twitter.com/lssweatherhead)
